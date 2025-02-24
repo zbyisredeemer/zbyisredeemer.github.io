@@ -4,13 +4,75 @@
   
   
   <entry>
-    <title>Hello World</title>
+    <title>20250223</title>
+    <link href="/2025/02/24/rb/20240223-red/"/>
+    <url>/2025/02/24/rb/20240223-red/</url>
+    
+    <content type="html"><![CDATA[<ol><li>一个处心积虑，有备而来；一个狂妄自大，目中无人，上海贝尔的失败也就理所当然了。</li><li>成功的人各有各的不同。”</li><li>人生际遇之无常，实在难言。</li><li>为了明天，我们必须修正今天</li><li>从泥坑中爬起来的人就是圣人</li><li>我是一只鸟，有可能在这个烈火的焚烧中被燃烧，但是我那燃烧的羽毛能照亮后来的人前进的道路</li><li>而一旦产生了自己的模式，就同时开启了自我进化的道路，可以主动演化。</li><li>如果世上真有奇迹，那只是努力的另一个名字。</li><li>狼性是丛林智慧，灰度哲学同样是丛林智慧，同时也渗透了道家的精髓，即水可以百折千回，终归大海。看似无为，却无不为；看似至柔，能克至坚。</li><li>“妥协”其实是非常务实、通权达变的丛林智慧，凡是人性丛林里的智者，都懂得在恰当时机接受别人妥协，或向别人提出妥协，毕竟人要生存，靠的是理性，而不是意气。</li><li>敢打才能和，小输就是赢。</li><li>以客户为中心”是黑夜茫茫草原上的北斗七星，虽然前进路上依然可能掉进深坑，但大方向是没错的；“以技术为中心”是“姜太公钓鱼——愿者上钩”，风险明显增大，往往沦为一厢情愿，“只是感动了自己”，可能到死也不知道自己是对还是不对。这就是差别。</li><li>真正可怕的不是竞争对手，而是时代和自己。</li><li>烧不死的才是凤凰，除了被对手烧，被客户烧，被员工烧，被资本烧，被政策烧，最重要的是被时代烧，被自己烧！</li><li>世界上没有不可能的事情，只看决心够不够大。</li><li>真正想做将军的人，是要历经千辛万苦的”，绝不会有什么捷径可以走</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>读书笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>读书笔记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>java基础</title>
+    <link href="/2025/02/24/java/java%E5%9F%BA%E7%A1%80/"/>
+    <url>/2025/02/24/java/java%E5%9F%BA%E7%A1%80/</url>
+    
+    <content type="html"><![CDATA[<h2 id="基础概念与常识"><a href="#基础概念与常识" class="headerlink" title="基础概念与常识"></a>基础概念与常识</h2><h3 id="Java-语言有哪些特点"><a href="#Java-语言有哪些特点" class="headerlink" title="Java 语言有哪些特点?"></a>Java 语言有哪些特点?</h3><ol><li>简单易学（语法简单，上手容易）；</li><li>面向对象（封装，继承，多态）；</li><li>平台无关性（ Java 虚拟机实现平台无关性）；</li><li>支持多线程（ C++ 语言没有内置的多线程机制，因此必须调用操作系统的多线程功能来进行多线程程序设计，而 Java 语言却提供了多线程支持）；</li><li>可靠性（具备异常处理和自动内存管理机制）；安全性（Java 语言本身的设计就提供了多重安全防护机制如访问权限修饰符、限制程序直接访问操作系统资源）；</li><li>高效性（通过 Just In Time 编译器等技术的优化，Java 语言的运行效率还是非常不错的）；</li><li>支持网络编程并且很方便；</li><li>编译与解释并存；</li><li>🌈 拓展一下：“Write Once, Run Anywhere（一次编写，随处运行）”这句宣传口号，真心经典，流传了好多年！以至于，直到今天，依然有很多人觉得跨平台是 Java 语言最大的优势。实际上，跨平台已经不是 Java 最大的卖点了，各种 JDK 新特性也不是。目前市面上虚拟化技术已经非常成熟，比如你通过 Docker 就很容易实现跨平台了。在我看来，Java 强大的生态才是！</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>java</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>20250224-首篇博客</title>
     <link href="/2025/02/24/hello-world/"/>
     <url>/2025/02/24/hello-world/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<ol><li>坚持的力量<br>「生命是一场耐心的角逐赛，只要你能坚持下去，即便道路再崎岖难行，前途也是一片光明。花开花落，潮起潮落，一切都会有终结，但坚持的每一步都在铸造未来的辉煌。真正的强者，并非从未跌倒，而是跌倒后仍能起身，继续向前。没有人生来就是王者，但执着和认真终将改变命运的轨迹。记住，你的努力不会白费，时间会为每一份耕耘写下答案。</li><li>希望与行动<br>   「人生如逆旅，你我皆是行人。别因一时的挫败否定全部的努力，成功往往藏在再试一次的勇气之后。梦想不会发光，发光的是追梦的你；舞台再小，你的光芒终将穿透黑暗。生活或许充满变数，但以平常心应万变，脚下之路自会延伸。别怕孤独，那是成长的勋章；别惧挑战，那是蜕变的契机。只要心中有火，眼里有光，再远的彼岸也能抵达。」</li><li>自我超越与成长<br>   「你的时间很贵，别浪费在犹豫中。每一次努力都是对未来的投资，回报或许迟到，但绝不会缺席。人生最大的敌人是自我怯懦，而非外界风雨。与其抱怨命运不公，不如用行动证明自己。没有退路时，潜能才会迸发；没有伞的孩子，必须学会奔跑。记住：你能走多远，取决于你与谁同行，更取决于你是否愿意成为自己的光。」</li><li>逆境中的智慧<br>   「生活坏到一定程度就会好起来，因为它无法更坏。穿过暴风雨的人，早已不再是原来的自己。苦难是人生的老师，它锻造脆弱为坚韧，化平凡为卓越。别害怕失败，那是成功的铺垫；别畏惧孤独，那是灵魂的丰盈。愿你以梦为马，在寂静的奋斗中默默生长，终有一日，你的坚持会让世界看到答案。」</li></ol>]]></content>
     
     
+    <categories>
+      
+      <category>随笔</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>随笔</tag>
+      
+    </tags>
     
   </entry>
   
